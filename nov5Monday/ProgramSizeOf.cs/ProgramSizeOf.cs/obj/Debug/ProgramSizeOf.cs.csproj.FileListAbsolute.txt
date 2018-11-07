@@ -1,0 +1,7 @@
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\bin\Debug\ProgramSizeOf.cs.exe.config
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\bin\Debug\ProgramSizeOf.cs.exe
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\bin\Debug\ProgramSizeOf.cs.pdb
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\obj\Debug\ProgramSizeOf.cs.csprojAssemblyReference.cache
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\obj\Debug\ProgramSizeOf.cs.csproj.CoreCompileInputs.cache
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\obj\Debug\ProgramSizeOf.cs.exe
+C:\Users\anjali\source\repos\ProgramSizeOf.cs\ProgramSizeOf.cs\obj\Debug\ProgramSizeOf.cs.pdb

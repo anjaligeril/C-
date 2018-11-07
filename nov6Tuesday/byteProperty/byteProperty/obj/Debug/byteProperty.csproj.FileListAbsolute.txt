@@ -1,0 +1,7 @@
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\bin\Debug\byteProperty.exe.config
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\bin\Debug\byteProperty.exe
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\bin\Debug\byteProperty.pdb
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\obj\Debug\byteProperty.csprojAssemblyReference.cache
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\obj\Debug\byteProperty.csproj.CoreCompileInputs.cache
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\obj\Debug\byteProperty.exe
+C:\Users\anjali\Desktop\c#\nov6Tuesday\byteProperty\byteProperty\obj\Debug\byteProperty.pdb

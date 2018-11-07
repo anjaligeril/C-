@@ -1,0 +1,6 @@
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\bin\Debug\Add2Numbers.exe.config
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\bin\Debug\Add2Numbers.exe
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\bin\Debug\Add2Numbers.pdb
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\obj\Debug\Add2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\obj\Debug\Add2Numbers.exe
+C:\Users\anjali\source\repos\Add2Numbers\Add2Numbers\obj\Debug\Add2Numbers.pdb

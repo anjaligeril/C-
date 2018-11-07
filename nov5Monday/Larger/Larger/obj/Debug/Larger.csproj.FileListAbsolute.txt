@@ -1,0 +1,6 @@
+C:\Users\anjali\source\repos\Larger\Larger\bin\Debug\Larger.exe.config
+C:\Users\anjali\source\repos\Larger\Larger\bin\Debug\Larger.exe
+C:\Users\anjali\source\repos\Larger\Larger\bin\Debug\Larger.pdb
+C:\Users\anjali\source\repos\Larger\Larger\obj\Debug\Larger.csproj.CoreCompileInputs.cache
+C:\Users\anjali\source\repos\Larger\Larger\obj\Debug\Larger.exe
+C:\Users\anjali\source\repos\Larger\Larger\obj\Debug\Larger.pdb
