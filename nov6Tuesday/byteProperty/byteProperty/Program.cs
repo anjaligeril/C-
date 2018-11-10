@@ -25,23 +25,44 @@ namespace byteProperty
 
             //implicit type conversion
 
-          /*  byte b = 3;
-            int a = b;
-            Console.WriteLine(a);*/
+            /*  byte b = 3;
+              int a = b;
+              Console.WriteLine(a);*/
 
             //explicit type conversion
 
-         /*   float f1 = 3.2f;
-            int a1 =(int) f1;*/
+            /*   float f1 = 3.2f;
+               int a1 =(int) f1;*/
 
             //in compatible datatype conversion
 
-            String s = "1234";
-            int a2 =int.Parse(s);
-            int a3 = Convert.ToInt32(s);
+            /* String s = "1234";
+             int a2 =int.Parse(s);
+             int a3 = Convert.ToInt32(s);
 
-            Console.WriteLine(a2);
-            Console.WriteLine(a3);
+             Console.WriteLine(a2);
+             Console.WriteLine(a3);*/
+
+            /* int i = 1000;
+             byte j =(byte)i;
+
+             Console.WriteLine(j);
+
+
+             var number = "45";
+             int q = int.Parse(number);
+             Console.WriteLine(q);
+             */
+            try
+            {
+                var num = "12345";
+                byte z = Convert.ToByte(num);
+                Console.WriteLine(z);
+            }catch(Exception e)
+            {
+                Console.WriteLine("Overflow exception");
+            }
+            
             Console.ReadKey();
         }
     }
